@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuniceHope
-- 👀 I’m interested in Machine Learning for Agriculture and/or Health
+- 👀 I’m interested in Machine Learning for Agriculture and Health
 - 🌱 I’m currently learning Data Science at AIMS Rwanda
 - 💞️ I’m looking to collaborate on differents projects such that AI for Agritech, DataViz, Edtech, ...
 - 📫 How to reach me : https://www.linkedin.com/in/linuce-demanou-kitio-b88822267/
